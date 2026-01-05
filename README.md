@@ -11,7 +11,7 @@
 - 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 - 🛠️ Building **low-latency AI systems**, TTS engines, and ML pipelines
 - 🧪 Interests: **AI systems, edge inference, ONNX, audio & vision**
-- 🐧 Linux user (Arch)
+- 🐧 Windows/Arch
 - 🚀 I like shipping things that actually work
 
 ---
@@ -45,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://onnx.ai/images/ONNX_Logo_Dark.svg" width="40"/>
+  <img src="https://onnx.ai/images/ONNX-Logo.svg" height="40"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ### 🔊 Audio / Speech / Vision
 <p>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ffmpeg.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/librosa.svg" width="40"/>
+  <img src="https://librosa.org/images/librosa_logo_text.png" height="40"/>
 </p>
 
 ---
@@ -80,7 +80,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samarthshrivas&show_icons=true&theme=onedark&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=samarthshrivas&theme=onedark&hide_border=true" height="160"/>
 </p>
 
